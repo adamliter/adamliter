@@ -14,8 +14,8 @@ Glassdoor. A bit more about me:
 
 If you're interested in learning even more about me, check out my:
 
-- [website][adamliter.org]
 - [LinkedIn][linkedin]
+- [website][adamliter.org]
 
 <!-- links -->
 [cka]: https://www.credly.com/badges/d4e61c9b-811b-494d-8b41-47638d4afd47/public_url
