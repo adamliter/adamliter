@@ -7,8 +7,9 @@ Glassdoor. A bit more about me:
 - I enjoy working on NLP problems, as I have a background in linguistics (PhD
   from University of Maryland).
 - I'm a "full-stack" ML practitioner who enjoys working on all aspects of an ML
-  project, from product conceptualization and discovery, to data engineering,
-  from model training, to model productionization.
+  project, including product conceptualization and discovery, data and feature
+  engineering pipelines, model training, and model productionization for
+  inference.
 - I particularly enjoy the DevOps side of things, and have two Kubernetes
   certifications, the [CKA][cka] and [CKAD][ckad].
 
