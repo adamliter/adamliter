@@ -4,14 +4,15 @@
 Hi there! I'm Adam, a machine learning practitioner currently working at
 Glassdoor. A bit more about me:
 
-- I enjoy working on NLP problems, as I have a background in linguistics (PhD
+- I like working on NLP problems, as I have a background in linguistics (PhD
   from University of Maryland).
-- I'm a "full-stack" ML practitioner who enjoys working on all aspects of an ML
-  project, including product conceptualization and discovery, data and feature
-  engineering pipelines, model training, and model productionization for
-  inference.
-- I particularly enjoy the DevOps side of things, and have two Kubernetes
-  certifications, the [CKA][cka] and [CKAD][ckad].
+- I'm a "full-stack" ML practitioner who thrives when able to work on all
+  aspects of an ML project, including product conceptualization and discovery,
+  data and feature engineering pipelines, model training, and model deployment
+  and productionization.
+- I particularly enjoy working at the intersection of ML, software engineering,
+  and DevOps and have two Kubernetes certifications, the [CKA][cka] and
+  [CKAD][ckad].
 
 If you're interested in learning even more about me, check out my:
 
