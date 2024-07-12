@@ -11,8 +11,8 @@ Glassdoor. A bit more about me:
   data and feature engineering pipelines, model training, and model deployment
   and productionization.
 - I particularly enjoy working at the intersection of ML, software engineering,
-  and DevOps and have two Kubernetes certifications, the [CKA][cka] and
-  [CKAD][ckad].
+  and DevOps and have three Kubernetes certifications, the [CKA][cka],
+  [CKAD][ckad], and [CKS][cks].
 
 If you're interested in learning even more about me, check out my:
 
@@ -22,6 +22,7 @@ If you're interested in learning even more about me, check out my:
 <!-- links -->
 [cka]: https://www.credly.com/badges/d4e61c9b-811b-494d-8b41-47638d4afd47/public_url
 [ckad]: https://www.credly.com/badges/cfc123ff-d155-475d-aed8-934ea491c01e/public_url
+[cks]: https://www.credly.com/badges/b9cad749-87dc-4afc-b200-e0bf986ba3e3/public_url
 [adamliter.org]: https://adamliter.org
 [linkedin]: https://www.linkedin.com/in/adamliter
 
